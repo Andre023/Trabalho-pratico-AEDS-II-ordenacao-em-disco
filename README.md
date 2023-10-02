@@ -43,4 +43,4 @@ O programa apresenta um menu de opções para o usuário, permitindo-lhe escolhe
 
 ## Observações
 
-- O projeto também contém métricas de desempenho, registradas em um arquivo `metrics.txt`.
+- O projeto também contém métricas de desempenho e tempo de execução das operações, registradas em um arquivo `metrics.txt`.
